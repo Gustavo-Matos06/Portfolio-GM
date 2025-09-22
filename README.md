@@ -8,4 +8,5 @@ desenvolvido com os cursos de HTML5 e CSS da Alura no programa ONE Oracle Next E
 
 <p>HTML5 → estrutura do site.<br>
 CSS3 → estilização da interface.<p><br>
+💻 DESENVOLVENDO 💻
 
